@@ -1,0 +1,5 @@
+{
+  "name": "NutriBot Control Station",
+  "description": "AI-powered nutrient delivery system for automated plant care.",
+  "requestFramePermissions": ["serial"]
+}
